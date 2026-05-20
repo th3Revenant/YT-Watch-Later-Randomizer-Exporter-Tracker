@@ -10,3 +10,5 @@ Usage:
 
 IMPORTANT:
 to export hidden "Unavailable Videos" you have to show them first (press the three dots on the left and chose Show unavailable videos).
+
+This work is licensed under: Creative Commons Non-Commercial (CC BY-NC 4.0)
